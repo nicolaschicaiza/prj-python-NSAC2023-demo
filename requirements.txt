@@ -1,3 +1,14 @@
 Django==4.1
 djangorestframework
+django-cors-headers
+supabase-py
+coreapi
 drf-yasg
+psycopg2-binary
+python-decouple
+opencv-contrib-python
+open3d
+pandas
+matplotlib
+seaborn
+tensorflow
