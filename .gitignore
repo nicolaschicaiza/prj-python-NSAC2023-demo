@@ -21,4 +21,4 @@ staticfiles/
 venv/
 
 # Variables de entorno
-.env
+# .env
